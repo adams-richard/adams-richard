@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Richard Adams,  I'm a Software Engineer at Citibank, and I've been working in tech since 2006. I'm from Brazil, and I'm currently living in beautiful New Jersey.
+I'm James Wild,  I'm a Software Engineer at Citibank, and I've been working in tech since 2006. I'm from Brazil, and I'm currently living in beautiful New Jersey.
 
 ## ⚡ Technologies
 
